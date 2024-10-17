@@ -21,3 +21,7 @@ Compile o arquivo TypeScript:
 Execute o arquivo JavaScript resultante:
 
 ```node calculadora.js```
+
+## linguagem Utilizada ##
+
+<a href="https://programartudo.blogspot.com/2024/05/typescript-significado-e-funcionalidade.html?m=1" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="80" height="80"/></a>
