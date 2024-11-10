@@ -24,4 +24,4 @@ Execute o arquivo JavaScript resultante:
 
 ## linguagem Utilizada ##
 
-<a href="https://programartudo.blogspot.com/2024/05/typescript-significado-e-funcionalidade.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60"/></a>
+<a href="https://programartudo.blogspot.com/2024/11/typescript-guia-completo-para.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60"/></a>
